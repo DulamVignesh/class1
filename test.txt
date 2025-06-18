@@ -1,4 +1,1 @@
-hello
-this 
-is
-day1
+first day
